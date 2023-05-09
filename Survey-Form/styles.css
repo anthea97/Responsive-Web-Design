@@ -40,7 +40,7 @@ fieldset {
   padding: 2rem 0;
 }
 
-textarea, select{
+input, textarea, select{
   margin: 10px 0 0 0;
   width: 100%;
   min-height: 2em;
@@ -49,10 +49,10 @@ textarea, select{
   color: #ffffff;
 }
 
-input{
+#submit{
   display: block;
-  margin-left: 50vw;
-  margin-bottom: 5vw;
+  margin-left: 25vw;
+  width: 50%;
 }
 
 .inline{
